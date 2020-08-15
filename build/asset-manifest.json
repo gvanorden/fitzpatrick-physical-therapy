@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.91fe0bec.chunk.css",
+    "main.js": "/static/js/main.72477754.chunk.js",
+    "main.js.map": "/static/js/main.72477754.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c970922d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c970922d.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.8ec3c724.chunk.js": "/static/js/2.8ec3c724.chunk.js",
+    "static/js/2.8ec3c724.chunk.js.map": "/static/js/2.8ec3c724.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.717cddc32776ebf7022ac668030adb79.js": "/precache-manifest.717cddc32776ebf7022ac668030adb79.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.91fe0bec.chunk.css.map": "/static/css/main.91fe0bec.chunk.css.map",
+    "static/js/2.8ec3c724.chunk.js.LICENSE.txt": "/static/js/2.8ec3c724.chunk.js.LICENSE.txt",
+    "static/media/brian-logo.png": "/static/media/brian-logo.cce1dce6.png",
+    "static/media/footer-address-icon.png": "/static/media/footer-address-icon.b9141556.png",
+    "static/media/footer-email-icon.png": "/static/media/footer-email-icon.541118d6.png",
+    "static/media/footer-phone-icon.png": "/static/media/footer-phone-icon.3597a087.png",
+    "static/media/hip-pain.png": "/static/media/hip-pain.5d03c79c.png",
+    "static/media/none-available.png": "/static/media/none-available.c8146987.png",
+    "static/media/apartment-rentals.css": "/static/media/off-main-background.ac964d4e.jpg",
+    "static/media/phone-icon.png": "/static/media/phone-icon.a0e3ff9f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c970922d.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.8ec3c724.chunk.js",
+    "static/css/main.91fe0bec.chunk.css",
+    "static/js/main.72477754.chunk.js"
+  ]
+}
