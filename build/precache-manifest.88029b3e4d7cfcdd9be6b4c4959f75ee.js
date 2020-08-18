@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "613025cfcf817c58708807fb20b846b1",
+    "revision": "978e6271be2a34802dad57da5da7ac27",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "e23dfee18514f8d6ca7d",
-    "url": "/static/css/main.91fe0bec.chunk.css"
+    "revision": "1c39da2c126f44686d87",
+    "url": "/static/css/main.bb5c4443.chunk.css"
   },
   {
     "revision": "cd11f8eb2ee0b40a84fa",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.8ec3c724.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e23dfee18514f8d6ca7d",
-    "url": "/static/js/main.72477754.chunk.js"
+    "revision": "1c39da2c126f44686d87",
+    "url": "/static/js/main.ce0572c1.chunk.js"
   },
   {
     "revision": "8948927874f34c5aaab8",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5d03c79c9b04645c0fb813488b7ba53a",
     "url": "/static/media/hip-pain.5d03c79c.png"
+  },
+  {
+    "revision": "e4082b820ef6c13a9780a1c83aa3eeae",
+    "url": "/static/media/main-background.e4082b82.jpg"
   },
   {
     "revision": "c814698730b898e4be0cdff8383d3cae",
